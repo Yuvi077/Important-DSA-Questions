@@ -8,14 +8,17 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0088-merge-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0088-merge-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0088-merge-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
