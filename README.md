@@ -32,4 +32,8 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0162-find-peak-element) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
