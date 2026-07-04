@@ -11,6 +11,7 @@
 | [0162-find-peak-element](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0162-find-peak-element) |
 | [0905-sort-array-by-parity](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0905-sort-array-by-parity) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +37,9 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0009-palindrome-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
