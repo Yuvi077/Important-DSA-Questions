@@ -11,6 +11,7 @@
 | [0162-find-peak-element](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0162-find-peak-element) |
 | [0905-sort-array-by-parity](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
@@ -26,6 +27,7 @@
 | [0088-merge-sorted-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
@@ -69,4 +71,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
