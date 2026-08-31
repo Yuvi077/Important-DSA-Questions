@@ -91,4 +91,8 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0226-invert-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
