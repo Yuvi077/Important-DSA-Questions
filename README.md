@@ -32,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Binary Search
@@ -96,4 +97,12 @@
 | ------- |
 | [0584-find-customer-referee](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1757-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
