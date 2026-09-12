@@ -100,6 +100,7 @@
 | [1148-article-views-i](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1757-recyclable-and-low-fat-products) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## String
 |  |
 | ------- |
