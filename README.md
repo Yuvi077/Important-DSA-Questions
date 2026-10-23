@@ -14,6 +14,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0009-palindrome-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
 | ------- |
@@ -110,4 +113,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
