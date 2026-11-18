@@ -20,6 +20,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0905-sort-array-by-parity) |
 ## Sorting
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [1331-rank-transform-of-an-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -126,10 +128,15 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
