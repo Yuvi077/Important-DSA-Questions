@@ -21,6 +21,7 @@
 | [0075-sort-colors](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0905-sort-array-by-parity) |
 ## Sorting
@@ -60,6 +61,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -131,12 +133,14 @@
 | [0021-merge-two-sorted-lists](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
