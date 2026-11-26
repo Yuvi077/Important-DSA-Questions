@@ -40,6 +40,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0141-linked-list-cycle) |
+| [0387-first-unique-character-in-a-string](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -162,4 +164,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Yuvi077/Important-DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
